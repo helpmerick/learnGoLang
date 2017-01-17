@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-const p string = "death and taxes"
-
 func main() {
+
+	const p string = "death and taxes"
 
 	const q = 42
 

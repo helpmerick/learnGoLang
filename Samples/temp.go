@@ -10,5 +10,4 @@ func main() {
 	fmt.Scan(&farn)
 	celc := (farn - FtoC) * 5 / 9
 	fmt.Println(farn, "Farenheit temp is: ", celc, "Celcius temp is")
-
 }
